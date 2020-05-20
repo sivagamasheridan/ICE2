@@ -3,7 +3,7 @@ package cardgameweek4;
  * Starter code for the Card class.
  * To be used in Week 4.
  * @author dancye modified by sivagama, 2019
- */
+ * date /
 public class Card {
     
         public enum Suit {HEARTS, CLUBS,SPADES,DIAMONDS};
